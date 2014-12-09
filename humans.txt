@@ -1,0 +1,10 @@
+/* TEAM */
+    Chef: Nicolás Escalante
+    Contact: nlante@gmail.com
+    Twitter: @nscne
+    GitHub: nescalante
+    From: Buenos Aires, Argentina
+
+/* SITE */
+    Tools: Sublime Text, git, JavaScript
+    Source: http://nescalante.github.io
