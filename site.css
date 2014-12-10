@@ -45,6 +45,14 @@ a:hover {
     text-shadow: 1px 0px 1px #574A3A;
 }
 
+a:active, a:focus {
+    transition: 0.3s;
+    text-shadow: 0 0 0;
+    background-color: #FFB591;
+    text-decoration: none;
+    color: white;
+}
+
 article {
     border: 10px solid #E6E667;
     padding: 10px;
